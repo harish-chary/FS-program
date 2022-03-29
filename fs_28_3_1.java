@@ -21,7 +21,7 @@ In each step, If the smallest or the largest character appears more than once yo
 
 Return the result string after doing the above rules.
 
-
+.
 Input: s = "aaaabbbbcccc"
 Output: "abccbaabccba"
 
