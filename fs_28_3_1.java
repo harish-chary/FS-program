@@ -23,7 +23,7 @@ Return the result string after doing the above rules.
 
 
 Input: s = "aaaabbbbcccc"
-Output: "abccbaabccba"
+Output: "abccbaabccba"   
 
 Explanation: After rules 1, 2 and 3 of the first iteration, result = "abc"
 After rules 4, 5 and 6 of the first iteration, result = "abccba"
@@ -31,7 +31,7 @@ First iteration is done. Now s = "aabbcc" and we go back to rule 1
 After rules 1, 2 and 3 of the second iteration, result = "abccbaabc"
 After rules 4, 5 and 6 of the second iteration, result = "abccbaabccba"
 
-
+1
 input=matratcat
 output=acmrttaat
 
