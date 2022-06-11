@@ -1,2 +1,2 @@
 # FS-program
-Daily finishing school problems
+Daily finishing school problems.
