@@ -7,6 +7,7 @@ rules:
 3) Each of the nine 3X3 sub-boxes of the grid must contain the characters A-I with out repetition.
 
 
+
 case = 1
 input =
 F C I E G D A H B
